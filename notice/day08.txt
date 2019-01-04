@@ -1,0 +1,9 @@
+1. 클래스 구현 = 속성 + 메소드
+	접근 제한자 class User_Name{
+		멤버; // 멤버변수, 상수/ 생성자,getter & setter, 기능형메소드
+	}
+	java beans : class 중에 setter & getter
+
+2. jar로 만들어서 참조형 구현을 할 수 있다.
+
+3. 상속을 구현할 수 있다.
